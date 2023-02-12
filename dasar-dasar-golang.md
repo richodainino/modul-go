@@ -2594,7 +2594,7 @@ type Number = int
 var num Number = 12
 ```
 
-### Latihan
+## Latihan
 Buatlah sebuah singly linked list menggunakan Golang dan buat pula fungsi untuk :
 1. menambahkan elemen di akhir linked list
 2. fungsi untuk menghapus elemen di akhir linked list
